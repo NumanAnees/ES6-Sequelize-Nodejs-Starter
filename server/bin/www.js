@@ -4,7 +4,7 @@
  * Module dependencies.
  */
 
-import app from "../app";
+import app from "../server";
 import debugLib from "debug";
 import http from "http";
 const debug = debugLib("your-project-name:server");
